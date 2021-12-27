@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    padding-top: 50px;
+}
+body{
+    background-color: black;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: large;
+    padding: 15px;
+}
+p{
+    color: white;
+    text-align: center;
+}
+a#thumbs{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: large;
+}
+footer#main{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+footer#site{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
